@@ -1,0 +1,1 @@
+train.txt and test.txt is sample train and test file for this task. 
