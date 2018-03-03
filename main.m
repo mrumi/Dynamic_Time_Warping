@@ -1,5 +1,5 @@
 %dataset load
-path = 'hw1_datasets/dataset4/';
+path = 'datasets/dataset4/';
 trainSet = load(strcat(path,'train.txt'));
 testSet = load(strcat(path,'test.txt'));
 
