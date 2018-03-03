@@ -1,1 +1,1 @@
-train.txt and test.txt is sample train and test file for this task. 
+train.txt and test.txt is sample train and test file for this task. Both file contains data features and their labels. Each row is one time series data. The nth column is data label and 1:n-1 labels are data features. Train and test set have same number of features.
